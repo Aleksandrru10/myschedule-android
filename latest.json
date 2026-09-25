@@ -1,11 +1,11 @@
 {
     "schema":  1,
     "packageName":  "ru.sash.shiftcalendar",
-    "versionCode":  12,
-    "versionName":  "2.0",
+    "versionCode":  13,
+    "versionName":  "2.1",
     "minSdk":  26,
-    "apk":  "MySchedule-2.0.apk",
+    "apk":  "MySchedule-2.1.apk",
     "size":  74571,
-    "sha256":  "a647c1be47baf5778b491023d7652864f2883fc9708193699c9662cd2383b272",
-    "notes":  "Прогноз дохода, ставка за смену и плановые периоды выплат."
+    "sha256":  "5c7c6a3e1f341bf8f84aa32061f933ca0b95df5d963b40f8822f5929ae2545d4",
+    "notes":  "Обновление через GitHub, ставка за смену и прогноз дохода."
 }
