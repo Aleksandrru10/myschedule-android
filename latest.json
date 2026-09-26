@@ -6,6 +6,6 @@
   "minSdk": 26,
   "apk": "MySchedule-2.2.apk",
   "size": 74571,
-  "sha256": "739c16e58a3c5d9b5e0286aca553cefcd6985e75349f10d68c376ca3764ab302",
+  "sha256": "8da860f51355226df87ffec32774e82dd553794fa7fe6ad3adfc3f3d4efeb112",
   "notes": "Свободные периоды выплат, ставка за смену и прогноз дохода по календарю."
 }
