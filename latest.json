@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageName": "ru.sash.shiftcalendar",
-  "versionCode": 15,
-  "versionName": "2.3",
+  "versionCode": 16,
+  "versionName": "2.4",
   "minSdk": 26,
-  "apk": "MySchedule-2.3.apk",
+  "apk": "MySchedule-2.4.apk",
   "size": 74571,
-  "sha256": "1c640fcb2ad8a0514b91c39cf89822cea2361f19ebcd14456269d1b09375753d",
-  "notes": "Дополнительные смены в календаре, сохранение в резервной копии и расчёте прогноза."
+  "sha256": "0e8893883c82e52a58b06d9fe604fdd622bfbf434e4393fa4cf981759d23b155",
+  "notes": "Дополнительные смены и отдельные ставки для дневных, ночных, суточных и дополнительных смен."
 }
